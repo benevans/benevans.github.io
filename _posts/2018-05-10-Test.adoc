@@ -1,0 +1,18 @@
+= Test
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+== Foo
+
+.Some code
+[source,java]
+----
+public static void main(String[] args) {
+	System.out.println("Hello, World!"); // <1>
+}
+----
+<1> Printing some stuff
+
